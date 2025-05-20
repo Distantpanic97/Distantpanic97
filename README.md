@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning English and Java Back-End.
 - 💞️ I’m looking to collaborate on Database internship or Back-end internship.
 - 📫 How to reach me in my email victorlucasdonadi@gmail.com or phone +55 (11) 96888-6451
-- 😄 Pronouns: he/his - ele/dele
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I already got champion in Rocket League
 
 <!---

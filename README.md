@@ -90,8 +90,8 @@ Technologies:
 
 ## Contact
 
-- LinkedIn: (coloque seu link)
-- Email: (se quiser colocar)
+- LinkedIn: www.linkedin.com/in/victor-donadi
+- Email: victorlucasdonadi@gmail.com
 
 ---
 
